@@ -1,2 +1,2 @@
 # Qt-Customised-Media-Player
-  Qt Widget App to based or stock QMediaPlayer Example, few more features are added
+  Qt Widget App based on stock QMediaPlayer Example, few more   features are added, such as taking snaphot or playing video in reverse
